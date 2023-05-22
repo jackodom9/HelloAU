@@ -1,8 +1,8 @@
 ![alt text](https://github.com/ajariwala1/HelloWorld/blob/main/Docs/banner_au.png?raw=true)
 
 
-:stop_sign: `Incomplete` <br/>
-:bangbang: `Skeleton Project`
+Completed by - Jack Odom
+CPSC 5330 Assignment 1
 
 # HelloWorld
 
@@ -22,3 +22,4 @@ https://github.com/ajariwala1/HelloWorld_Completed
 - Add design components to your app.
 - Import image assets to your app.
 - Test and debug your app.
+
